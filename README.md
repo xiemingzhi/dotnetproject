@@ -22,6 +22,15 @@ git add .
 git commit -m "init commit"
 ```
 
+# github 
+
+```
+git remote add origin https://github.com/xiemingzhi/dotnetproject.git
+git branch -M main
+git push -u origin main
+```
+windows use credential manager to remove old
+
 # requirements
 
 ```
